@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mario-gets-coding
-- 👀 I’m interested in data analysis, particularly the financial variety
+- 👀 I’m interested in data analysis of the financial variety
 - 🌱 I’m currently working on some case studies to add to my portfolio
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My favorite dessert is apple pie a la mode 
